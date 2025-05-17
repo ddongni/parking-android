@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
-        String message = "https://parkingmeterbroker.com";
+        String message = "https://seattle.parkingmeterbroker.com";
 
         // 웹뷰 시작
         mWebView = (WebView) findViewById(R.id.webView);
