@@ -16,7 +16,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:adSize="SMART_BANNER"
-            app:adUnitId="ca-app-pub-6854372688341522/8476686313"/>
+            app:adUnitId="ca-app-pub-6854372688341522/6665006303"/>
 
         <WebView
             android:id="@+id/webView"

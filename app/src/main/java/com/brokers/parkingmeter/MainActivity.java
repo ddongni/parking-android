@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
         adView.loadAd(adRequest);
         AdView adView = new AdView(this);
         adView.setAdSize(AdSize.BANNER); //광고 사이즈는 배너 사이즈로 설정
-        adView.setAdUnitId("ca-app-pub-6854372688341522/8476686313");
+        adView.setAdUnitId("ca-app-pub-6854372688341522/6665006303");
     }
 
     @Override
